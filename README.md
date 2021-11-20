@@ -2,7 +2,7 @@
 
 Source code from my PhD Research: "Population imaging and diffusion MRI for characterizing multiple sclerosis in the human spinal cord".
 
-Research conducted at Empenn (ex. VisAGeS) research Unit, Inria Rennes - Bretagne Atlantique, University Rennes 1 (France) under the supervision of Christian Barillot and Emmanuel Caruyer. Throughout the PhD work I had to write pieces of code to carry out various tasks: 
+Research conducted at Empenn (ex. VisAGeS) research Unit, Inria Rennes - Bretagne Atlantique, University of Rennes 1 (France) under the supervision of Christian Barillot and Emmanuel Caruyer. Throughout the PhD work I had to write pieces of code to carry out various tasks: 
 
 1- Distortion correction of diffusion MRI for spinal cord study
 
